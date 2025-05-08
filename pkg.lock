@@ -1384,7 +1384,7 @@
     {
       "ref": "rlang",
       "package": "rlang",
-      "version": "1.1.5",
+      "version": "1.1.2",
       "type": "standard",
       "direct": false,
       "binary": true,
