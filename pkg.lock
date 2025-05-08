@@ -625,7 +625,7 @@
     {
       "ref": "ggplot2",
       "package": "ggplot2",
-      "version": "3.5.1",
+      "version": "3.4.4",
       "type": "standard",
       "direct": false,
       "binary": true,
