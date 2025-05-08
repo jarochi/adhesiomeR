@@ -638,10 +638,10 @@
         "RemoteRef": "ggplot2",
         "RemoteRepos": "https://cran.rstudio.com/",
         "RemotePkgPlatform": "i386+x86_64-w64-mingw32",
-        "RemoteSha": "3.5.1"
+        "RemoteSha": "3.4.4"
       },
       "sources": ["https://cran.rstudio.com//bin/windows/contrib/4.3/ggplot2_3.5.1.zip"],
-      "target": "bin/windows/contrib/4.3/ggplot2_3.5.1.zip",
+      "target": "bin/windows/contrib/4.3/ggplot2_3.4.4.zip",
       "platform": "i386+x86_64-w64-mingw32",
       "rversion": "4.3",
       "built": "R 4.3.3; ; 2024-09-25 02:27:13 UTC; windows",
@@ -1397,10 +1397,10 @@
         "RemoteRef": "rlang",
         "RemoteRepos": "https://cran.rstudio.com/",
         "RemotePkgPlatform": "x86_64-w64-mingw32",
-        "RemoteSha": "1.1.5"
+        "RemoteSha": "1.1.2"
       },
-      "sources": ["https://cran.rstudio.com//bin/windows/contrib/4.3/rlang_1.1.5.zip"],
-      "target": "bin/windows/contrib/4.3/rlang_1.1.5.zip",
+      "sources": ["https://cran.rstudio.com//bin/windows/contrib/4.3/rlang_1.1.2.zip"],
+      "target": "bin/windows/contrib/4.3/rlang_1.1.2.zip",
       "platform": "x86_64-w64-mingw32",
       "rversion": "4.3",
       "built": "R 4.3.3; x86_64-w64-mingw32; 2025-01-18 00:51:21 UTC; windows",
